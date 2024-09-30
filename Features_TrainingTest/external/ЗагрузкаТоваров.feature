@@ -1,4 +1,6 @@
 ﻿#language: ru
+@exportScenarios
+@ignoreOnCIMainBuild
 @tree
 
 Функционал: загрузка товаров
