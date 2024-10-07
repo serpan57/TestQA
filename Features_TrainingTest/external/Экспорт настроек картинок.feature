@@ -17,7 +17,7 @@
 
 	И я перезаполняю для объекта табличную часть "ConnectionSetting":
 		| 'Ref'                                                                         | 'Key'         | 'Value'                                                 |
-		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49494' | 'AddressPath' | 'C:\Р\АБОТА\\Индивидуальное Развитие\\VA\\FilesSource'  |
+		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49494' | 'AddressPath' | 'C:\\РАБОТА\\Индивидуальное Развитие\\VA\\FilesSource'  |
 		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49495' | 'AddressPath' | 'C:\\РАБОТА\\Индивидуальное Развитие\\VA\\FilesPreview' |
 
 	И я перезаполняю константу "DefaultPictureStorageVolume" значением "e1cib/data/Catalog.FileStorageVolumes?ref=b772dbcd8801bc7611ec420177a49496"
